@@ -14,6 +14,8 @@ gem 'devise'
 # Use twitter bootstrap for styling
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+# Use stock_quote for tracking stock prices
+gem 'stock_quote'
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
